@@ -1,6 +1,6 @@
 name: voice_to_text
 description: The VoiceToText class provides an interface that facilitates the use of the speech_to_text package.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/molinalk/voice_to_text.git
 repository: https://github.com/molinalk/voice_to_text.git
 
@@ -58,7 +58,4 @@ flutter:
 platforms:
   android:
   ios:
-  linux:
-  macos:
   web:
-  windows:
